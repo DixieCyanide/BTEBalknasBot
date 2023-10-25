@@ -1,0 +1,9 @@
+{
+  "type": 1,
+  "components": [
+    { "type": 2, "custom_id": "GRC", "label": "Greece", "style": 1 },
+    { "type": 2, "custom_id": "HRV", "label": "Croatia", "style": 1 },
+    { "type": 2, "custom_id": "KSV", "label": "Kosovo", "style": 1 },
+    { "type": 2, "custom_id": "MKD", "label": "Macedonia", "style": 1 }
+  ]
+}

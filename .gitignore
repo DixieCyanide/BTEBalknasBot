@@ -1,0 +1,7 @@
+config.txt
+config.json
+*.py
+*.png
+node_modules
+.eslintrc.json
+*/embeds/*
